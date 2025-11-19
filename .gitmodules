@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/PaleEXE/pale-uni-app
+[submodule "synthatic_graphs"]
+	path = synthatic_graphs
+	url = https://github.com/PaleEXE/synthetic_graphs
