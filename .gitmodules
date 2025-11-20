@@ -4,3 +4,6 @@
 [submodule "synthatic_graphs"]
 	path = synthatic_graphs
 	url = https://github.com/PaleEXE/synthetic_graphs
+[submodule "graduation-project-database"]
+	path = graduation-project-database
+	url = https://github.com/sara-ammourh/graduation-project-database
