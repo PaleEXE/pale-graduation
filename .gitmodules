@@ -1,9 +1,8 @@
+# git submodule update --remote --merge
+
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/PaleEXE/pale-uni-app
-[submodule "synthatic_graphs"]
-	path = synthatic_graphs
-	url = https://github.com/PaleEXE/synthetic_graphs
 [submodule "backend"]
 	path = backend
 	url = https://github.com/sara-ammourh/graduation-project-database
