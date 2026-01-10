@@ -1,9 +1,9 @@
 [submodule "frontend"]
-	path = frontend
-	url = https://github.com/PaleEXE/pale-uni-app
-[submodule "synthatic_graphs"]
-	path = synthatic_graphs
-	url = https://github.com/PaleEXE/synthetic_graphs
+    path = frontend
+    url = https://github.com/PaleEXE/pale-uni-app
+    branch = main
+
 [submodule "backend"]
-	path = backend
-	url = https://github.com/sara-ammourh/graduation-project-database
+    path = backend
+    url = https://github.com/sara-ammourh/graduation-project-database
+    branch = main
