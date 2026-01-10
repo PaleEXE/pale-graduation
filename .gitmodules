@@ -1,3 +1,5 @@
+# git submodule update --remote --merge
+
 [submodule "frontend"]
     path = frontend
     url = https://github.com/PaleEXE/pale-uni-app
